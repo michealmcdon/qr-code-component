@@ -2,8 +2,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
-body {
+  }
+  
+  body {
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
@@ -15,31 +16,37 @@ body {
     font-weight: 400;
     font-size: 1rem;
     text-align: center;
-}
-main {
+  }
+  
+  main {
     width: 100%;
-    max-width: 18.75rem; /* Converts 300px to rem */
+    max-width: 16.25rem; /* Reduced size (300px to 260px) */
     background-color: white;
-    padding: 1rem; /* Converts 15px to rem */
+    padding: 0.875rem; /* Reduced padding (15px to 14px) */
     border-radius: 0.9375rem; /* Converts 15px to rem */
     display: flex;
     flex-direction: column;
-    gap: 1.25rem; /* Converts 20px to rem */
-    box-shadow: 0 1px 1.5625rem rgba(123, 123, 123, 0.5); /* Converts 25px */
-}
-h1 {
+    gap: 1rem; /* Reduced gap (20px to 16px) */
+    box-shadow: 0 1px 1.875rem rgba(0, 0, 0, 0.5); /* Darkened the box shadow and adjusted size (25px to 30px) */
+  }
+  
+  h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     padding: 0 0.3125rem; /* Converts 5px to rem */
-    font-size: 1.25rem;
-}
-p {
+    font-size: 1.125rem; /* Reduced font size (1.5rem to 1.125rem) */
+  }
+  
+  p {
     color: hsl(220, 15%, 55%);
     padding: 0 0.3125rem;
-    margin-bottom: 1.5625rem; /* Converts 25px to rem */
-}
-main img {
+    margin-bottom: 1.25rem; /* Reduced margin (25px to 20px) */
+    font-size: 0.875rem; /* Ensure text is consistent */
+  }
+  
+  main img {
     width: 100%;
     height: auto;
     border-radius: 0.9375rem; /* Converts 15px to rem */
-}
+  }
+  
