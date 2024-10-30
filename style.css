@@ -27,7 +27,7 @@ main {
     gap: 1.25rem; /* Converts 20px to rem */
     box-shadow: 0 1px 1.5625rem rgba(123, 123, 123, 0.5); /* Converts 25px */
 }
-h3 {
+h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     padding: 0 0.3125rem; /* Converts 5px to rem */
