@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - [Solution URL](https://github.com/michealmcdon/qr-code-component)
-- [Live Site URL](https://your-live-site-url.com)  <!-- Replace this with your Vercel URL -->
+- [Live Site URL](https://qr-code-component-seven-dusky.vercel.app/)
 
 ## My process
 
@@ -41,9 +41,7 @@ Further enhance responsiveness and add detailed styling and animations in future
 - [MDN Web Docs for Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This helped me understand the basics and advanced concepts of Flexbox.
 
 ## Author
-- Website - [Your Name](https://www.your-site.com)  <!-- Add your personal or portfolio website URL -->
 - Frontend Mentor - [@michealmcdon](https://www.frontendmentor.io/profile/michealmcdon)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)  <!-- Optional, if you want to share your Twitter handle -->
 
 ## Acknowledgments
 Thanks to Frontend Mentor for the design and challenge. Shoutout to the community for their support and feedback.
